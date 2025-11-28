@@ -371,7 +371,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-**Project Maintainer**: Harsha
+**Project Maintainer**: K Sai Sri Harsha
 
 **GitHub**: [https://github.com/Harsha2oo5](https://github.com/Harsha2oo5)
 
